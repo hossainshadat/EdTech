@@ -4,6 +4,10 @@
   color: #289bde;
 }
 
+.color-bg-custom-primary {
+  background-color: #289bde;
+}
+
 body {
   font-family: "Poppins", sans-serif;
 }
@@ -14,4 +18,10 @@ body {
   right: 50%;
   text-align: center;
   transform: translate(50%, -50%);
+}
+
+.learning__desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
