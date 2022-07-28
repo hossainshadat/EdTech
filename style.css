@@ -1,5 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
 
+.color-custom-primary {
+  color: #289bde;
+}
+
 body {
   font-family: "Poppins", sans-serif;
+}
+
+.carousel-caption-custom {
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  text-align: center;
+  transform: translate(50%, -50%);
 }
